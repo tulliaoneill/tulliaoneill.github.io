@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tulliaoneill.github.io
+title: Posts
+email: tullia.oneill@gmail.com
+author: tulliaoneill
+description: My awesome new site
+paginate: 3
+google_analytics: 
